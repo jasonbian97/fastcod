@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>FastCod is a open-source tool and written in python. It can efficiently compute the connectivity feature between brain regions. If you use diffusion-weighted MRI and tractography in your research or clinical practice, this tool can possibly save you tons of time!</p>
+subtitle: <p>FastCod can efficiently compute the diffusion-based connectivity feature between brain regions. It is a open-source tool and written in python. If you use diffusion-weighted MRI and tractography in your research or clinical practice, this tool can possibly save you lots of time!</p>
 
 profile:
   align: right
