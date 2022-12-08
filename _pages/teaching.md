@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: getting started
+description: This page shows teaches how you can use FastCod to do some most basic jobs. A demo dataset is prepared for you to follow along. 
 nav: true
 nav_order: 5
 ---
